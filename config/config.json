@@ -1,0 +1,30 @@
+{
+  "clusters": [
+    {
+      "name": "account",
+      "services": [
+        {
+          "name":"account_node001",
+          "domain": "http://localhost:5001"
+        },
+        {
+          "name":"account_node002",
+          "domain": "http://localhost:5002"
+        }
+      ]
+    },
+    {
+      "name": "order",
+      "services": [
+        {
+          "name":"order_node001",
+          "domain": "http://localhost:5003"
+        },
+        {
+          "name":"order_node002",
+          "domain": "http://localhost:5004"
+        }
+      ]
+    }
+  ]
+}
