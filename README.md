@@ -1,7 +1,7 @@
 # Golang API-Gateway  ![](https://img.shields.io/badge/license-GPL3.0-blue.svg)
 
 
-Golang API gateway 閘道服務實作 
+Golang API gateway 閘道服務器
 
 ## API Gateway 功能
 ### Auth
