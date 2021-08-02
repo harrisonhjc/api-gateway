@@ -12,7 +12,7 @@ Golang API gateway 閘道服務器
 * 黑名單
 * 白名單
 
-### rate limitter
+### Rate limitter
 * 限速
 * 超時
 * 熔斷
